@@ -13,3 +13,8 @@ Aiming (mouse), Player Movement (WASD)
 
 
 This is a live project and am always looking to continue adding to it.
+
+
+You can watch a walkthrough of the demo and some its features here:
+
+https://www.youtube.com/watch?v=q3XQajEICOI&t=20s
